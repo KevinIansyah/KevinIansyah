@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hallo Semua 👋
 
+Perkenalkan nama saya **Kevin Iansyah**.
+
+Saya seorang **Full-Stack Web Developer**.
+
+Saya masih berkuliah di **Universitas Pembangunan Nasional Verteran Jawa Timur**.
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/kevin-iansyah-594138267)ku ya.
 <!--
 **KevinIansyah/KevinIansyah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
