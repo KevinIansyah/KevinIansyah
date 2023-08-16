@@ -2,9 +2,7 @@
 
 Perkenalkan nama saya **Kevin Iansyah**.
 
-Saya seorang **Full-Stack Web Developer**.
-
-Saya masih berkuliah di **Universitas Pembangunan Nasional Verteran Jawa Timur**.
+Tahun ketiga menjadi mahasiswa **Informatika** di **UPN Veteran Jawa Timur**.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/kevin-iansyah-594138267)ku ya.
 <!--
