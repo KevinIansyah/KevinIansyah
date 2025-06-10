@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Kevin Iansyah**.
 
-Tahun ketiga menjadi mahasiswa **Informatika** di **UPN Veteran Jawa Timur**.
+Tahun terakhir menjadi mahasiswa **Informatika** di **UPN Veteran Jawa Timur**.
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/kevin-iansyah-594138267)ku ya.
 <!--
